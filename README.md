@@ -18,7 +18,7 @@ Monthly and quarterly expense trends
 Comparison of spending across different card user segments
 
 ## -Technologies
-Built with Excel/Power BI/Tableau (adapt as per your tool)
+Built with Excel/Power BI
 Rich data visualizations: pie charts, bar charts, and trend lines
 
 ## -Usage
